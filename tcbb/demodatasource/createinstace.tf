@@ -1,4 +1,4 @@
-data "aws_availablility_zones" {}
+data "aws_availablility_zones" "avilable" {}
     
 
 resource "aws_instance" "MyFiirstInstnace" {
