@@ -9,6 +9,6 @@ resource "aws_instance" "MyFirstInstnace" {
     Name = "custom_instance"
   }
 
- 
+} 
 
  
